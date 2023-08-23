@@ -11,7 +11,7 @@ The script I wrote takes 4 sets of numbers, defining a rectangle of coordinate p
 ...<br><br>
 And by that I mean you can create one for yourself in the Google Cloud Console. Right. I did that. Entirely legitimately. Moving on.<br><br>
 Anyway, I probably got lucky in the case of my search, the area I searched in had exactly one road photographed on the date I was searching for. After that, it wasn't difficult to search the street view and match the screenshot with one of my own. I won the challenge, and was from then on known as "the hacker version of Rainbolt."<br><br>
-...soooo if you somehow find yourself in this odd situation or just want to play around with the tool I created, I've put it in this repository along with another script you can use to run it in the background of something like a GitHub Codespace.<br><br>
+...soooo if you somehow find yourself in this odd situation or just want to play around with the tool I created, I've put it in this repository along with instructions you can follow to run it in the background of something like a GitHub Codespace.<br><br>
 
 Happy hacking,<br>
 TurtleCode
