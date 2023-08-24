@@ -15,3 +15,6 @@ Anyway, I probably got lucky in the case of my search, the area I searched in ha
 
 Happy hacking,<br>
 TurtleCode
+
+## Legal
+This software makes use of the Google Maps API. By using this software, you are bound by the [Google Maps Terms of Use](https://cloud.google.com/maps-platform/terms), [Google's Terms of Service](http://www.google.com/intl/en/policies/terms), and [Google's Privacy Policy](http://www.google.com/policies/privacy). I, TurtleCode84, the author of this software, am not responsible for the use of this open-source software for purposes or intents which may break the aforementioned Terms and Policy, including but not limited to illegal or malicious usage. By using this tool, you release the author from liability, as detailed in the [LICENSE](LICENSE) document.
